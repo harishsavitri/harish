@@ -1,5 +1,15 @@
 this is a naga file
+<<<<<<< HEAD
 hyderabad
 vijayawada
 i am here
 
+=======
+<<<<<<< HEAD
+vijayawada
+i am here
+=======
+i am here
+hyderabad
+>>>>>>> 6ac6577 (update naga.txt)
+>>>>>>> master
